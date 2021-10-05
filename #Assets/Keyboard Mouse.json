@@ -1,0 +1,3627 @@
+[
+  {
+    "keys": ["`Click 0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 0.png"
+  },
+  {
+    "keys": ["`Click 1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 1.png"
+  },
+  {
+    "keys": ["`Click 2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 2.png"
+  },
+  {
+    "keys": ["`Click 3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 3.png"
+  },
+  {
+    "keys": ["`Click 4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 4.png"
+  },
+  {
+    "keys": ["`Axis Z-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Z-.png"
+  },
+  {
+    "keys": ["`Axis Z+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Z+.png"
+  },
+  {
+    "keys": ["`Axis X-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis X-.png"
+  },
+  {
+    "keys": ["`Axis X+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis X+.png"
+  },
+  {
+    "keys": ["`Axis Y-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Y-.png"
+  },
+  {
+    "keys": ["`Axis Y+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Y+.png"
+  },
+  {
+    "keys": ["Click 0"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 0.png"
+  },
+  {
+    "keys": ["Click 1"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 1.png"
+  },
+  {
+    "keys": ["Click 2"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 2.png"
+  },
+  {
+    "keys": ["Click 3"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 3.png"
+  },
+  {
+    "keys": ["Click 4"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Click 4.png"
+  },
+  {
+    "keys": ["Axis Z-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Z-.png"
+  },
+  {
+    "keys": ["Axis Z+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Z+.png"
+  },
+  {
+    "keys": ["Axis X-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis X-.png"
+  },
+  {
+    "keys": ["Axis X+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis X+.png"
+  },
+  {
+    "keys": ["Axis Y-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Y-.png"
+  },
+  {
+    "keys": ["Axis Y+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Axis Y+.png"
+  },
+  {
+    "keys": ["DOWN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\DOWN.png"
+  },
+  {
+    "keys": ["LEFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\LEFT.png"
+  },
+  {
+    "keys": ["RIGHT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\RIGHT.png"
+  },
+  {
+    "keys": ["UP"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\UP.png"
+  },
+  {
+    "keys": ["Alt"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\ALT.png"
+  },
+  {
+    "keys": ["APPS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\APPS.png"
+  },
+  {
+    "keys": ["APOSTROPHE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\APOSTROPHE.png"
+  },
+  {
+    "keys": ["BACK"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\BACK.png"
+  },
+  {
+    "keys": ["BACKSLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\BACKSLASH.png"
+  },
+  {
+    "keys": ["COMMA"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\COMMA.png"
+  },
+  {
+    "keys": ["Ctrl"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\CONTROL.png"
+  },
+  {
+    "keys": ["ESCAPE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\ESC.png"
+  },
+  {
+    "keys": ["EQUALS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\EQUALS.png"
+  },
+  {
+    "keys": ["GRAVE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\GRAVE.png"
+  },
+  {
+    "keys": ["LBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\LBRACKET.png"
+  },
+  {
+    "keys": ["LCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\CONTROL.png"
+  },
+  {
+    "keys": ["LMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\ALT.png"
+  },
+  {
+    "keys": ["LSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SHIFT.png"
+  },
+  {
+    "keys": ["MINUS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\MINUS.png"
+  },
+  {
+    "keys": ["`OEM_102`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\OEM_102.png"
+  },
+  {
+    "keys": ["PERIOD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\PERIOD.png"
+  },
+  {
+    "keys": ["RBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\RBRACKET.png"
+  },
+  {
+    "keys": ["RCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\CONTROL.png"
+  },
+  {
+    "keys": ["RETURN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\RETURN.png"
+  },
+  {
+    "keys": ["RMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\ALT GR.png"
+  },
+  {
+    "keys": ["RSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SHIFT.png"
+  },
+  {
+    "keys": ["TAB"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\TAB.png"
+  },
+  {
+    "keys": ["Shift"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SHIFT.png"
+  },
+  {
+    "keys": ["SEMICOLON"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SEMICOLON.png"
+  },
+  {
+    "keys": ["SLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SLASH.png"
+  },
+  {
+    "keys": ["SPACE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SPACE.png"
+  },
+  {
+    "keys": ["Win"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\OS.png"
+  },
+  {
+    "keys": ["A"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\A.png"
+  },
+  {
+    "keys": ["B"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\B.png"
+  },
+  {
+    "keys": ["C"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\C.png"
+  },
+  {
+    "keys": ["D"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\D.png"
+  },
+  {
+    "keys": ["E"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\E.png"
+  },
+  {
+    "keys": ["F"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F.png"
+  },
+  {
+    "keys": ["G"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\G.png"
+  },
+  {
+    "keys": ["H"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\H.png"
+  },
+  {
+    "keys": ["I"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\I.png"
+  },
+  {
+    "keys": ["J"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\J.png"
+  },
+  {
+    "keys": ["K"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\K.png"
+  },
+  {
+    "keys": ["L"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\L.png"
+  },
+  {
+    "keys": ["M"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\M.png"
+  },
+  {
+    "keys": ["N"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\N.png"
+  },
+  {
+    "keys": ["O"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\O.png"
+  },
+  {
+    "keys": ["P"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\P.png"
+  },
+  {
+    "keys": ["Q"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Q.png"
+  },
+  {
+    "keys": ["R"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\R.png"
+  },
+  {
+    "keys": ["S"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\S.png"
+  },
+  {
+    "keys": ["T"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\T.png"
+  },
+  {
+    "keys": ["U"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\U.png"
+  },
+  {
+    "keys": ["V"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\V.png"
+  },
+  {
+    "keys": ["W"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\W.png"
+  },
+  {
+    "keys": ["X"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\X.png"
+  },
+  {
+    "keys": ["Y"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Y.png"
+  },
+  {
+    "keys": ["Z"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\Z.png"
+  },
+  {
+    "keys": ["`0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\0.png"
+  },
+  {
+    "keys": ["`1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\1.png"
+  },
+  {
+    "keys": ["`2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\2.png"
+  },
+  {
+    "keys": ["`3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\3.png"
+  },
+  {
+    "keys": ["`4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\4.png"
+  },
+  {
+    "keys": ["`5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\5.png"
+  },
+  {
+    "keys": ["`6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\6.png"
+  },
+  {
+    "keys": ["`7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\7.png"
+  },
+  {
+    "keys": ["`8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\8.png"
+  },
+  {
+    "keys": ["`9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\9.png"
+  },
+  {
+    "keys": ["`F1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F1.png"
+  },
+  {
+    "keys": ["`F2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F2.png"
+  },
+  {
+    "keys": ["`F3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F3.png"
+  },
+  {
+    "keys": ["`F4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F4.png"
+  },
+  {
+    "keys": ["`F5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F5.png"
+  },
+  {
+    "keys": ["`F6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F6.png"
+  },
+  {
+    "keys": ["`F7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F7.png"
+  },
+  {
+    "keys": ["`F8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F8.png"
+  },
+  {
+    "keys": ["`F9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F9.png"
+  },
+  {
+    "keys": ["`F10`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F10.png"
+  },
+  {
+    "keys": ["`F11`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F11.png"
+  },
+  {
+    "keys": ["`F12`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\F12.png"
+  },
+  {
+    "keys": ["DELETE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\DELETE.png"
+  },
+  {
+    "keys": ["END"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\END.png"
+  },
+  {
+    "keys": ["NEXT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\NEXT.png"
+  },
+  {
+    "keys": ["INSERT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\INSERT.png"
+  },
+  {
+    "keys": ["HOME"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\HOME.png"
+  },
+  {
+    "keys": ["PRIOR"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\PRIOR.png"
+  },
+  {
+    "keys": ["PAUSE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\PAUSE.png"
+  },
+  {
+    "keys": ["`NUMPAD0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\0.png"
+  },
+  {
+    "keys": ["`NUMPAD1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\1.png"
+  },
+  {
+    "keys": ["`NUMPAD2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\2.png"
+  },
+  {
+    "keys": ["`NUMPAD3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\3.png"
+  },
+  {
+    "keys": ["`NUMPAD4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\4.png"
+  },
+  {
+    "keys": ["`NUMPAD5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\5.png"
+  },
+  {
+    "keys": ["`NUMPAD6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\6.png"
+  },
+  {
+    "keys": ["`NUMPAD7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\7.png"
+  },
+  {
+    "keys": ["`NUMPAD8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\8.png"
+  },
+  {
+    "keys": ["`NUMPAD9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\9.png"
+  },
+  {
+    "keys": ["ADD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\ADD.png"
+  },
+  {
+    "keys": ["DECIMAL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\DECIMAL.png"
+  },
+  {
+    "keys": ["DIVIDE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\DIVIDE.png"
+  },
+  {
+    "keys": ["MULTIPLY"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\MULTIPLY.png"
+  },
+  {
+    "keys": ["NUMPADENTER"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\RETURN.png"
+  },
+  {
+    "keys": ["SUBTRACT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\MINUS.png"
+  },
+  {
+    "keys": ["`Click 0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 0.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Click 1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 1.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Click 2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 2.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Click 3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 3.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Click 4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 4.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Axis Z-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Z-.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Axis Z+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Z+.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Axis X-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis X-.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Axis X+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis X+.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Axis Y-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Y-.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Axis Y+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Y+.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Click 0"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 0.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Click 1"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 1.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Click 2"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 2.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Click 3"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 3.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Click 4"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Click 4.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Axis Z-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Z-.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Axis Z+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Z+.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Axis X-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis X-.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Axis X+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis X+.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Axis Y-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Y-.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Axis Y+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Axis Y+.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["DOWN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\DOWN.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["LEFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\LEFT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["RIGHT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\RIGHT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["UP"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\UP.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Alt"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\ALT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["APPS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\APPS.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["APOSTROPHE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\APOSTROPHE.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["BACK"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\BACK.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["BACKSLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\BACKSLASH.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["COMMA"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\COMMA.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Ctrl"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\CONTROL.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["ESCAPE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\ESC.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["EQUALS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\EQUALS.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["GRAVE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\GRAVE.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["LBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\LBRACKET.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["LCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\CONTROL.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["LMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\ALT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["LSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\SHIFT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["MINUS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\MINUS.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`OEM_102`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\OEM_102.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["PERIOD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\PERIOD.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["RBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\RBRACKET.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["RCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\CONTROL.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["RETURN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\RETURN.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["RMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\ALT GR.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["RSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\SHIFT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["TAB"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\TAB.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Shift"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\SHIFT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["SEMICOLON"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\SEMICOLON.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["SLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\SLASH.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["SPACE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\SPACE.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Win"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\OS.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["A"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\A.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["B"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\B.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["C"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\C.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["D"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\D.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["E"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\E.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["F"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["G"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\G.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["H"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\H.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["I"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\I.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["J"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\J.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["K"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\K.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["L"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\L.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["M"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\M.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["N"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\N.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["O"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\O.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["P"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\P.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Q"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Q.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["R"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\R.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["S"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\S.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["T"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\T.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["U"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\U.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["V"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\V.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["W"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\W.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["X"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\X.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Y"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Y.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["Z"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\Z.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\0.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\1.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\2.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\3.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\4.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\5.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\6.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\7.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\8.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\9.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F1.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F2.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F3.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F4.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F5.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F6.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F7.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F8.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F9.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F10`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F10.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F11`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F11.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`F12`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\F12.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["DELETE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\DELETE.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["END"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\END.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["NEXT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\NEXT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["INSERT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\INSERT.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["HOME"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\HOME.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["PRIOR"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\PRIOR.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["PAUSE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\PAUSE.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\0.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\1.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\2.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\3.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\4.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\5.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\6.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\7.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\8.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`NUMPAD9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\9.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["ADD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\ADD.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["DECIMAL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\DECIMAL.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["DIVIDE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\DIVIDE.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["MULTIPLY"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\MULTIPLY.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["NUMPADENTER"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\RETURN.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["SUBTRACT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\MINUS.png",
+    "tag": "Pressed"
+  },
+  {
+    "keys": ["`Click 0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 0.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Click 1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 1.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Click 2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 2.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Click 3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 3.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Click 4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 4.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Axis Z-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z-.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Axis Z+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z+.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Axis X-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X-.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Axis X+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X+.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Axis Y-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y-.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Axis Y+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y+.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Click 0"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 0.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Click 1"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 1.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Click 2"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 2.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Click 3"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 3.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Click 4"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 4.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Axis Z-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z-.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Axis Z+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z+.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Axis X-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X-.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Axis X+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X+.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Axis Y-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y-.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Axis Y+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y+.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["DOWN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DOWN.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["LEFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\LEFT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["RIGHT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RIGHT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["UP"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\UP.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Alt"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["APPS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\APPS.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["APOSTROPHE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\APOSTROPHE.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["BACK"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\BACK.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["BACKSLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\BACKSLASH.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["COMMA"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\COMMA.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Ctrl"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["ESCAPE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ESC.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["EQUALS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\EQUALS.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["GRAVE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\GRAVE.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["LBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\LBRACKET.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["LCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["LMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["LSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["MINUS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MINUS.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`OEM_102`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\OEM_102.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["PERIOD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PERIOD.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["RBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RBRACKET.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["RCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["RETURN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RETURN.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["RMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT GR.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["RSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["TAB"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\TAB.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Shift"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["SEMICOLON"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SEMICOLON.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["SLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SLASH.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["SPACE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SPACE.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Win"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\OS.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["A"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\A.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["B"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\B.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["C"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\C.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["D"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\D.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["E"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\E.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["F"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["G"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\G.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["H"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\H.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["I"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\I.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["J"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\J.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["K"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\K.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["L"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\L.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["M"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\M.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["N"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\N.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["O"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\O.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["P"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\P.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Q"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Q.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["R"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\R.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["S"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\S.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["T"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\T.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["U"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\U.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["V"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\V.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["W"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\W.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["X"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\X.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Y"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Y.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["Z"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Z.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\0.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\1.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\2.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\3.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\4.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\5.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\6.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\7.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\8.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\9.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F1.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F2.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F3.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F4.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F5.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F6.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F7.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F8.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F9.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F10`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F10.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F11`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F11.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`F12`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F12.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["DELETE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DELETE.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["END"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\END.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["NEXT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\NEXT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["INSERT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\INSERT.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["HOME"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\HOME.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["PRIOR"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PRIOR.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["PAUSE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PAUSE.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\0.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\1.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\2.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\3.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\4.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\5.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\6.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\7.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\8.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`NUMPAD9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\9.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["ADD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ADD.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["DECIMAL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DECIMAL.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["DIVIDE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DIVIDE.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["MULTIPLY"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MULTIPLY.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["NUMPADENTER"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RETURN.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["SUBTRACT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MINUS.png",
+    "tag": "Flat"
+  },
+  {
+    "keys": ["`Click 0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 0.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Click 1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 1.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Click 2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 2.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Click 3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 3.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Click 4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 4.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Axis Z-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Z-.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Axis Z+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Z+.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Axis X-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis X-.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Axis X+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis X+.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Axis Y-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Y-.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Axis Y+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Y+.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Click 0"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 0.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Click 1"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 1.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Click 2"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 2.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Click 3"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 3.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Click 4"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Click 4.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Axis Z-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Z-.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Axis Z+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Z+.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Axis X-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis X-.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Axis X+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis X+.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Axis Y-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Y-.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Axis Y+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Axis Y+.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["DOWN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\DOWN.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["LEFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\LEFT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["RIGHT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\RIGHT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["UP"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\UP.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Alt"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\ALT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["APPS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\APPS.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["APOSTROPHE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\APOSTROPHE.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["BACK"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\BACK.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["BACKSLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\BACKSLASH.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["COMMA"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\COMMA.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Ctrl"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\CONTROL.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["ESCAPE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\ESC.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["EQUALS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\EQUALS.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["GRAVE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\GRAVE.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["LBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\LBRACKET.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["LCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\CONTROL.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["LMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\ALT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["LSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\SHIFT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["MINUS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\MINUS.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`OEM_102`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\OEM_102.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["PERIOD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\PERIOD.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["RBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\RBRACKET.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["RCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\CONTROL.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["RETURN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\RETURN.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["RMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\ALT GR.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["RSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\SHIFT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["TAB"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\TAB.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Shift"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\SHIFT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["SEMICOLON"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\SEMICOLON.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["SLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\SLASH.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["SPACE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\SPACE.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Win"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\OS.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["A"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\A.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["B"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\B.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["C"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\C.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["D"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\D.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["E"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\E.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["F"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["G"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\G.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["H"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\H.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["I"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\I.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["J"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\J.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["K"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\K.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["L"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\L.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["M"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\M.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["N"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\N.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["O"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\O.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["P"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\P.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Q"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Q.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["R"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\R.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["S"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\S.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["T"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\T.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["U"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\U.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["V"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\V.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["W"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\W.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["X"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\X.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Y"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Y.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["Z"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\Z.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\0.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\1.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\2.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\3.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\4.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\5.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\6.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\7.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\8.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\9.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F1.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F2.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F3.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F4.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F5.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F6.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F7.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F8.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F9.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F10`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F10.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F11`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F11.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`F12`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\F12.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["DELETE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\DELETE.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["END"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\END.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["NEXT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\NEXT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["INSERT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\INSERT.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["HOME"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\HOME.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["PRIOR"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\PRIOR.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["PAUSE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\PAUSE.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\0.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\1.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\2.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\3.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\4.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\5.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\6.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\7.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\8.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`NUMPAD9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\9.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["ADD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\ADD.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["DECIMAL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\DECIMAL.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["DIVIDE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\DIVIDE.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["MULTIPLY"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\MULTIPLY.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["NUMPADENTER"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\RETURN.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["SUBTRACT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\MINUS.png",
+    "tag": "Flat_Pressed"
+  },
+  {
+    "keys": ["`Click 0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 0.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Click 1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 1.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Click 2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 2.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Click 3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 3.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Click 4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 4.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Axis Z-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Z-.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Axis Z+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Z+.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Axis X-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis X-.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Axis X+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis X+.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Axis Y-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Y-.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Axis Y+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Y+.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Click 0"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 0.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Click 1"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 1.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Click 2"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 2.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Click 3"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 3.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Click 4"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Click 4.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Axis Z-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Z-.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Axis Z+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Z+.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Axis X-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis X-.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Axis X+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis X+.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Axis Y-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Y-.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Axis Y+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Axis Y+.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["DOWN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\DOWN.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["LEFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\LEFT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["RIGHT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\RIGHT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["UP"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\UP.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Alt"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\ALT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["APPS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\APPS.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["APOSTROPHE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\APOSTROPHE.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["BACK"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\BACK.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["BACKSLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\BACKSLASH.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["COMMA"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\COMMA.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Ctrl"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\CONTROL.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["ESCAPE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\ESC.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["EQUALS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\EQUALS.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["GRAVE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\GRAVE.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["LBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\LBRACKET.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["LCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\CONTROL.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["LMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\ALT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["LSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\SHIFT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["MINUS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\MINUS.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`OEM_102`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\OEM_102.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["PERIOD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\PERIOD.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["RBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\RBRACKET.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["RCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\CONTROL.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["RETURN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\RETURN.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["RMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\ALT GR.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["RSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\SHIFT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["TAB"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\TAB.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Shift"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\SHIFT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["SEMICOLON"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\SEMICOLON.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["SLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\SLASH.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["SPACE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\SPACE.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Win"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\OS.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["A"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\A.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["B"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\B.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["C"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\C.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["D"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\D.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["E"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\E.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["F"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["G"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\G.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["H"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\H.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["I"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\I.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["J"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\J.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["K"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\K.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["L"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\L.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["M"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\M.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["N"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\N.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["O"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\O.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["P"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\P.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Q"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Q.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["R"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\R.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["S"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\S.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["T"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\T.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["U"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\U.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["V"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\V.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["W"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\W.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["X"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\X.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Y"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Y.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["Z"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\Z.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\0.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\1.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\2.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\3.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\4.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\5.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\6.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\7.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\8.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\9.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F1.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F2.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F3.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F4.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F5.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F6.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F7.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F8.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F9.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F10`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F10.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F11`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F11.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`F12`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\F12.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["DELETE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\DELETE.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["END"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\END.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["NEXT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\NEXT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["INSERT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\INSERT.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["HOME"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\HOME.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["PRIOR"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\PRIOR.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["PAUSE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\PAUSE.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\0.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\1.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\2.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\3.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\4.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\5.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\6.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\7.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\8.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`NUMPAD9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\9.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["ADD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\ADD.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["DECIMAL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\DECIMAL.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["DIVIDE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\DIVIDE.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["MULTIPLY"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\MULTIPLY.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["NUMPADENTER"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\RETURN.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["SUBTRACT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\MINUS.png",
+    "tag": "Simple-Default"
+  },
+  {
+    "keys": ["`Click 0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 0.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Click 1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 1.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Click 2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 2.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Click 3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 3.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Click 4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 4.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Axis Z-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Z-.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Axis Z+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Z+.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Axis X-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis X-.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Axis X+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis X+.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Axis Y-`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Y-.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`Axis Y+`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Y+.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Click 0"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 0.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Click 1"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 1.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Click 2"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 2.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Click 3"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 3.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Click 4"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Click 4.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Axis Z-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Z-.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Axis Z+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Z+.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Axis X-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis X-.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Axis X+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis X+.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Axis Y-"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Y-.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Axis Y+"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Axis Y+.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["DOWN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\DOWN.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["LEFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\LEFT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["RIGHT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\RIGHT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["UP"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\UP.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Alt"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\ALT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["APPS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\APPS.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["APOSTROPHE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\APOSTROPHE.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["BACK"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\BACK.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["BACKSLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\BACKSLASH.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["COMMA"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\COMMA.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Ctrl"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\CONTROL.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["ESCAPE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\ESC.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["EQUALS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\EQUALS.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["GRAVE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\GRAVE.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["LBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\LBRACKET.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["LCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\CONTROL.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["LMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\ALT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["LSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\SHIFT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["MINUS"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\MINUS.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`OEM_102`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\OEM_102.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["PERIOD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\PERIOD.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["RBRACKET"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\RBRACKET.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["RCONTROL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\CONTROL.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["RETURN"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\RETURN.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["RMENU"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\ALT GR.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["RSHIFT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\SHIFT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["TAB"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\TAB.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Shift"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\SHIFT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["SEMICOLON"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\SEMICOLON.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["SLASH"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\SLASH.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["SPACE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\SPACE.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Win"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\OS.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["A"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\A.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["B"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\B.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["C"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\C.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["D"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\D.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["E"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\E.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["F"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["G"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\G.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["H"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\H.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["I"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\I.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["J"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\J.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["K"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\K.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["L"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\L.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["M"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\M.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["N"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\N.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["O"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\O.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["P"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\P.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Q"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Q.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["R"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\R.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["S"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\S.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["T"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\T.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["U"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\U.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["V"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\V.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["W"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\W.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["X"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\X.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Y"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Y.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["Z"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\Z.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\0.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\1.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\2.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\3.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\4.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\5.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\6.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\7.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\8.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\9.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F1.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F2.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F3.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F4.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F5.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F6.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F7.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F8.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F9.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F10`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F10.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F11`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F11.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`F12`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\F12.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["DELETE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\DELETE.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["END"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\END.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["NEXT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\NEXT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["INSERT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\INSERT.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["HOME"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\HOME.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["PRIOR"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\PRIOR.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["PAUSE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\PAUSE.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD0`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\0.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD1`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\1.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD2`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\2.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD3`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\3.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD4`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\4.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD5`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\5.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD6`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\6.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD7`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\7.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD8`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\8.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["`NUMPAD9`"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\9.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["ADD"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\ADD.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["DECIMAL"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\DECIMAL.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["DIVIDE"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\DIVIDE.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["MULTIPLY"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\MULTIPLY.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["NUMPADENTER"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\RETURN.png",
+    "tag": "Text-Default"
+  },
+  {
+    "keys": ["SUBTRACT"],
+    "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\MINUS.png",
+    "tag": "Text-Default"
+  }
+]
