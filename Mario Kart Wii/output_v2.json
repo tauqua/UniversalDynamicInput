@@ -1,6 +1,6 @@
 {
   "specification": 2.0,
-  "default_host_controls": "..\\#Assets\\host_controls_v2.json",
+  "default_host_controls": "../#Assets/host_controls_v2.json",
   "generated_folder_name": "#Generated_Mario Kart Wii",
   "preserve_aspect_ratio": true,
   "output_textures": {
@@ -10,7 +10,8 @@
         "Wiimote1": [
           {
             "key": "Buttons/B",
-            "region": [0.0, 0.0, 128.0, 180.0]
+            "region": [0.0, 0.0, 128.0, 180.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -21,7 +22,8 @@
         "Wiimote1": [
           {
             "key": "Buttons/2",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -32,7 +34,8 @@
         "GCPad1": [
           {
             "key": "Triggers/R",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -43,7 +46,8 @@
         "GCPad1": [
           {
             "key": "Triggers/L",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -54,7 +58,8 @@
         "Wiimote1": [
           {
             "key": "Classic/Triggers/R",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -65,7 +70,8 @@
         "Wiimote1": [
           {
             "key": "Buttons/1",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -87,7 +93,8 @@
         "GCPad1": [
           {
             "key": "Buttons/A",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -98,7 +105,8 @@
         "Wiimote1": [
           {
             "key": "Classic/Buttons/A",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -109,7 +117,8 @@
         "Wiimote1": [
           {
             "key": "Classic/Triggers/L",
-            "region": [0.0, 0.0, 160.0, 160.0]
+            "region": [0.0, 0.0, 160.0, 160.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -120,7 +129,8 @@
         "Wiimote1": [
           {
             "key": "Nunchuk/Buttons/Z",
-            "region": [0.0, 0.0, 168.0, 144.0]
+            "region": [0.0, 0.0, 168.0, 144.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -129,8 +139,10 @@
       "image": "tex1_256x64_0d82d8c70cf94049_5.png",
       "emulated_controls": {
         "GCPad1": [
-          { "key": "Buttons/Start", "region": [0.0, 0.0, 178.0, 236.0] },
-          { "key": "Buttons/Start", "region": [188.0, 10.0, 346.0, 226.0] }
+          { "key": "Buttons/Start", "region": [0.0, 0.0, 178.0, 236.0],
+            "tag": "Flat" },
+          { "key": "Buttons/Start", "region": [188.0, 10.0, 346.0, 226.0],
+            "tag": "Flat" }
         ]
       }
     },
@@ -138,15 +150,20 @@
       "image": "tex1_256x64_5bbadf89aacba57b_5.png",
       "emulated_controls": {
         "Wiimote1": [
-          { "key": "Buttons/1", "region": [0.0, 0.0, 178.0, 226.0] },
-          { "key": "Buttons/+", "region": [178.0, 0.0, 356.0, 236.0] },
-          { "key": "Buttons/+", "region": [366.0, 10.0, 524.0, 226.0] },
-          { "key": "Classic/Buttons/B", "region": [534.0, 0.0, 712.0, 236.0] }
+          { "key": "Buttons/1", "region": [0.0, 0.0, 178.0, 226.0],
+            "tag": "Flat" },
+          { "key": "Buttons/+", "region": [178.0, 0.0, 356.0, 236.0],
+            "tag": "Flat" },
+          { "key": "Buttons/+", "region": [366.0, 10.0, 524.0, 226.0],
+            "tag": "Flat" },
+          { "key": "Classic/Buttons/B", "region": [534.0, 0.0, 712.0, 236.0],
+            "tag": "Flat" }
         ],
         "GCPad1": [
           {
             "key": "Buttons/B",
-            "region": [712.0, 0.0, 890.0, 226.0]
+            "region": [712.0, 0.0, 890.0, 226.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -157,19 +174,23 @@
         "Wiimote1": [
           {
             "key": "Buttons/2",
-            "region": [178.0, 0.0, 356.0, 226.0]
+            "region": [178.0, 0.0, 356.0, 226.0],
+            "tag": "Flat"
           },
           {
             "key": "Buttons/2",
-            "region": [386.0, 10.0, 524.0, 216.0]
+            "region": [386.0, 10.0, 524.0, 216.0],
+            "tag": "Flat"
           },
           {
             "key": "Buttons/A",
-            "region": [534.0, 0.0, 712.0, 226.0]
+            "region": [534.0, 0.0, 712.0, 226.0],
+            "tag": "Flat"
           },
           {
             "key": "Buttons/A",
-            "region": [722.0, 10.0, 880.0, 216.0]
+            "region": [722.0, 10.0, 880.0, 216.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -180,25 +201,30 @@
         "Wiimote1": [
           {
             "key": "Classic/Buttons/A",
-            "region": [0.0, 0.0, 179.0, 201.0]
+            "region": [0.0, 0.0, 179.0, 201.0],
+            "tag": "Flat"
           },
           {
             "key": "Classic/Buttons/A",
-            "region": [189.0, 9.0, 345.0, 197.0]
+            "region": [189.0, 9.0, 345.0, 197.0],
+            "tag": "Flat"
           },
           {
             "key": "Buttons/B",
-            "region": [710.0, 0.0, 884.0, 213.0]
+            "region": [710.0, 0.0, 884.0, 213.0],
+            "tag": "Flat"
           }
         ],
         "GCPad1": [
           {
             "key": "Buttons/A",
-            "region": [360.0, 0.0, 528.0, 199.0]
+            "region": [360.0, 0.0, 528.0, 199.0],
+            "tag": "Flat"
           },
           {
             "key": "Buttons/A",
-            "region": [541.0, 3.0, 701.0, 198.0]
+            "region": [541.0, 3.0, 701.0, 198.0],
+            "tag": "Flat"
           }
         ]
       }
@@ -209,29 +235,32 @@
         "GCPad1": [
           {
             "bind_type": "multi",
-            "tag": "NSEW",
+            "tag": "Flat NESW",
             "region": [0, 0, 160, 160],
             "sub_entries": [
               {
                 "bind_type": "single",
                 "key": "Main Stick/Up",
-                "region": [56.0, 8.0, 104.0, 56.0]
-              },
-              {
-                "bind_type": "single",
-                "key": "Main Stick/Left",
-                "region": [8.0, 56.0, 56.0, 104.0]
-              },
-              {
-                "bind_type": "single",
-                "key": "Main Stick/Down",
-                "region": [56.0, 104.0, 104.0, 152.0]
+                "region": [56.0, 8.0, 104.0, 56.0],
+                "tag": "Flat"
               },
               {
                 "bind_type": "single",
                 "key": "Main Stick/Right",
-                "region": [104.0, 56.0, 152.0, 104.0]
-              }
+                "region": [104.0, 56.0, 152.0, 104.0],
+                "tag": "Flat"
+              },
+              {
+                "bind_type": "single",
+                "key": "Main Stick/Down",
+                "region": [56.0, 104.0, 104.0, 152.0],
+                "tag": "Flat"
+              },{
+                "bind_type": "single",
+                "key": "Main Stick/Left",
+                "region": [8.0, 56.0, 56.0, 104.0],
+                "tag": "Flat"
+              }              
             ]
           }
         ]
@@ -243,28 +272,32 @@
         "Wiimote1": [
           {
             "bind_type": "multi",
-            "tag": "NSEW",
+            "tag": "Flat NESW",
             "region": [0, 0, 160, 160],
             "sub_entries": [
               {
                 "bind_type": "single",
                 "key": "Nunchuk/Stick/Up",
-                "region": [56.0, 8.0, 104.0, 56.0]
-              },
-              {
-                "bind_type": "single",
-                "key": "Nunchuk/Stick/Left",
-                "region": [8.0, 56.0, 56.0, 104.0]
-              },
-              {
-                "bind_type": "single",
-                "key": "Nunchuk/Stick/Down",
-                "region": [56.0, 104.0, 104.0, 152.0]
+                "region": [56.0, 8.0, 104.0, 56.0],
+                "tag": "Flat"
               },
               {
                 "bind_type": "single",
                 "key": "Nunchuk/Stick/Right",
-                "region": [104.0, 56.0, 152.0, 104.0]
+                "region": [104.0, 56.0, 152.0, 104.0],
+                "tag": "Flat"
+              },
+              {
+                "bind_type": "single",
+                "key": "Nunchuk/Stick/Down",
+                "region": [56.0, 104.0, 104.0, 152.0],
+                "tag": "Flat"
+              },
+              {
+                "bind_type": "single",
+                "key": "Nunchuk/Stick/Left",
+                "region": [8.0, 56.0, 56.0, 104.0],
+                "tag": "Flat"
               }
             ]
           }
@@ -277,28 +310,32 @@
         "Wiimote1": [
           {
             "bind_type": "multi",
-            "tag": "NSEW",
+            "tag": "Flat NESW",
             "region": [0, 0, 160, 160],
             "sub_entries": [
               {
                 "bind_type": "single",
                 "key": "D-Pad/Up",
-                "region": [56.0, 8.0, 104.0, 56.0]
-              },
-              {
-                "bind_type": "single",
-                "key": "D-Pad/Left",
-                "region": [8.0, 56.0, 56.0, 104.0]
-              },
-              {
-                "bind_type": "single",
-                "key": "D-Pad/Down",
-                "region": [56.0, 104.0, 104.0, 152.0]
+                "region": [56.0, 8.0, 104.0, 56.0],
+                "tag": "Flat"
               },
               {
                 "bind_type": "single",
                 "key": "D-Pad/Right",
-                "region": [104.0, 56.0, 152.0, 104.0]
+                "region": [104.0, 56.0, 152.0, 104.0],
+                "tag": "Flat"
+              },
+              {
+                "bind_type": "single",
+                "key": "D-Pad/Down",
+                "region": [56.0, 104.0, 104.0, 152.0],
+                "tag": "Flat"
+              },
+              {
+                "bind_type": "single",
+                "key": "D-Pad/Left",
+                "region": [8.0, 56.0, 56.0, 104.0],
+                "tag": "Flat"
               }
             ]
           }
