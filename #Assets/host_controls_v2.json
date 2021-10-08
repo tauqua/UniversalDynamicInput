@@ -1,7 +1,7 @@
 {
-  "XInput/0/Gamepad": "..\\#Assets\\Xbox_XInput.json",
-  "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#Assets\\Xbox_DInput.json",
-  "DInput/0/Keyboard Mouse": "..\\#Assets\\Keyboard Mouse.json",
+  "XInput/0/Gamepad": "./Xbox_XInput.json",
+  "DInput/0/Bluetooth LE XINPUT compatible input device": "./Xbox_DInput.json",
+  "DInput/0/Keyboard Mouse": "./Keyboard Mouse.json",
   "DSUClient/0/DualShock4": [
     {
       "keys": ["DSUClient/0/DualShock4"],
