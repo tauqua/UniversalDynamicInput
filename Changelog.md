@@ -1,3 +1,76 @@
+# 11-03-2021 - UniversalDynamicInput_Pack 1.6
+## Update input texture:
+- add XBOX 360
+- add Generic controller.
+- XBOX ONE: resolution increased, no longer look like xbox 360 buttons.
+- Simple-Default style: are now thicker and more readable.
+
+## Support added:
+#### Wii
+- Newer Super Mario Bros. Wii (Hack)
+
+#### Wii Ware
+- Sin and Punishment
+
+## Windows Input Devices added:
+- **PowerA Controller Switch** DInput/0/Core (Plus) Wired Controller
+
+## Missing textures added:
+- Zelda Wind Waker: Add missing a and b buttons in equipment menu.
+- Super Smash Bros Brawl: Add 3 missing textures.
+- Metroid Prime: add nunchuk Z textures, add press 1 texture.
+- Metroid Prime 1-2: add beam C-Stick textures.
+- Mii Channel: add wii Remote texture.
+- Super Mario Sunshine: add B butten.
+
+## Other Adjustments:
+- Rayman Raving Rabbids 1+2.
+- Wii Menu: resolution increased.
+- Update Zelda Twilight Princess GC: improved the display of the exchange textures
+- Metroid prime series: improved the display of the exchange textures
+- Update DevicesTextureChanger: add XBOX ONE to Generic, XBOX ONE to Switch Pro Controller and XBOX ONE to XBOX 360.
+
+# 10-22-2021 - UniversalDynamicInput_Pack 1.5
+
+## Support added:
+#### GC
+- GameCube BIOS Menu
+- Need for Speed Carbon
+- Pokémon Box: Ruby and Sapphire
+#### Wii
+- Dragon Ball Z Budokai Tenkaichi 3
+- Samurai Warriors Katana
+- The Bigs 2
+
+## Input Devices added:
+#### Linux
+- **Keyboard and Mouse** XInput2/0/Virtual core pointer
+- **X-Box 360 wired** evdev/0/Microsoft X-Box 360 pad
+- **X-Box One S wired** evdev/0/Microsoft X-Box One S pad
+- **DualShock4 wired** evdev/0/Sony Interactive Entertainment Wireless Controller
+- **DualShock4 via bluetooth** evdev/0/Wireless Controller
+- **DSUClient support**.
+#### MacOS
+- **Keyboard and Mouse** Quartz/0/Keyboard & Mouse
+- **X-Box One S via bluetooth** SDL/0/Xbox Wireless Controller
+- **DualShock4 wired or via bluetooth** SDL/0/PS4 Controller
+- **DSUClient support**.
+
+## Missing textures added:
+- NfS Undercover: add 2 Stick textures.
+- Rune Factory Tides: add nunchuk Knock texture.
+
+## Other Adjustments:
+- fix DualShock4 Left Stick Flat texture.
+- Rune Factory Tides: menu Buttons A is now displayed correctly.
+- the tab key is now recognized correctly.
+- text graphics are now displayed better
+- added missing text outlines.
+- Mirrored textures re-matched with originals.
+- Remove unnecessary temporary files
+
+## [Github generated Changelog](https://github.com/Venomalia/UniversalDynamicInput/compare/1.4...1.5).
+
 ---
 # 09-13-2021 - UniversalDynamicInput_Pack 1.4
 
